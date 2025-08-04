@@ -1,0 +1,14 @@
+C:\Users\DELL\RiderProjects\BackToSenderLogistic\BackToSenderLogistic\bin\Debug\net8.0\BackToSenderLogistic.exe
+C:\Users\DELL\RiderProjects\BackToSenderLogistic\BackToSenderLogistic\bin\Debug\net8.0\BackToSenderLogistic.deps.json
+C:\Users\DELL\RiderProjects\BackToSenderLogistic\BackToSenderLogistic\bin\Debug\net8.0\BackToSenderLogistic.runtimeconfig.json
+C:\Users\DELL\RiderProjects\BackToSenderLogistic\BackToSenderLogistic\bin\Debug\net8.0\BackToSenderLogistic.dll
+C:\Users\DELL\RiderProjects\BackToSenderLogistic\BackToSenderLogistic\bin\Debug\net8.0\BackToSenderLogistic.pdb
+C:\Users\DELL\RiderProjects\BackToSenderLogistic\BackToSenderLogistic\obj\Debug\net8.0\BackToSenderLogistic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\RiderProjects\BackToSenderLogistic\BackToSenderLogistic\obj\Debug\net8.0\BackToSenderLogistic.AssemblyInfoInputs.cache
+C:\Users\DELL\RiderProjects\BackToSenderLogistic\BackToSenderLogistic\obj\Debug\net8.0\BackToSenderLogistic.AssemblyInfo.cs
+C:\Users\DELL\RiderProjects\BackToSenderLogistic\BackToSenderLogistic\obj\Debug\net8.0\BackToSenderLogistic.csproj.CoreCompileInputs.cache
+C:\Users\DELL\RiderProjects\BackToSenderLogistic\BackToSenderLogistic\obj\Debug\net8.0\BackToSenderLogistic.dll
+C:\Users\DELL\RiderProjects\BackToSenderLogistic\BackToSenderLogistic\obj\Debug\net8.0\refint\BackToSenderLogistic.dll
+C:\Users\DELL\RiderProjects\BackToSenderLogistic\BackToSenderLogistic\obj\Debug\net8.0\BackToSenderLogistic.pdb
+C:\Users\DELL\RiderProjects\BackToSenderLogistic\BackToSenderLogistic\obj\Debug\net8.0\BackToSenderLogistic.genruntimeconfig.cache
+C:\Users\DELL\RiderProjects\BackToSenderLogistic\BackToSenderLogistic\obj\Debug\net8.0\ref\BackToSenderLogistic.dll
