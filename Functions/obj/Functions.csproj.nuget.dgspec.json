@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\RiderProjects\\BackToSenderLogistic\\Functions\\Functions.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\RiderProjects\\BackToSenderLogistic\\Functions\\Functions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\RiderProjects\\BackToSenderLogistic\\Functions\\Functions.csproj": {
+    "C:\\Users\\DELL\\Desktop\\RiderProjects\\BackToSenderLogistic\\Functions\\Functions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\RiderProjects\\BackToSenderLogistic\\Functions\\Functions.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\RiderProjects\\BackToSenderLogistic\\Functions\\Functions.csproj",
         "projectName": "Functions",
-        "projectPath": "C:\\Users\\DELL\\RiderProjects\\BackToSenderLogistic\\Functions\\Functions.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\RiderProjects\\BackToSenderLogistic\\Functions\\Functions.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\RiderProjects\\BackToSenderLogistic\\Functions\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\RiderProjects\\BackToSenderLogistic\\Functions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"

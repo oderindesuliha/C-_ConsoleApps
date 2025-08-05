@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\RiderProjects\\BackToSenderLogistic\\BackToSenderLogistic\\BackToSenderLogistic.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\RiderProjects\\BackToSenderLogistic\\BackToSenderLogistic\\BackToSenderLogistic.csproj",
       "projectName": "BackToSenderLogistic",
-      "projectPath": "C:\\Users\\DELL\\RiderProjects\\BackToSenderLogistic\\BackToSenderLogistic\\BackToSenderLogistic.csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\RiderProjects\\BackToSenderLogistic\\BackToSenderLogistic\\BackToSenderLogistic.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\RiderProjects\\BackToSenderLogistic\\BackToSenderLogistic\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\RiderProjects\\BackToSenderLogistic\\BackToSenderLogistic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
